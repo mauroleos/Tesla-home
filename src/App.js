@@ -34,7 +34,7 @@ function App() {
           backgroundImg={ModelS}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
-          rightBtnTxt="LEARN MORE"
+          rightBtnTxt="EXISTING INVENTORY"
           rightBtnLink=""
           twoButtons="true"
         />
@@ -45,7 +45,7 @@ function App() {
           backgroundImg={Model3}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
-          rightBtnTxt="LEARN MORE"
+          rightBtnTxt="EXISTING INVENTORY"
           rightBtnLink=""
           twoButtons="true"
         />
@@ -56,7 +56,7 @@ function App() {
           backgroundImg={ModelX}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
-          rightBtnTxt="LEARN MORE"
+          rightBtnTxt="EXISTING INVENTORY"
           rightBtnLink=""
           twoButtons="true"
         />
@@ -76,7 +76,7 @@ function App() {
           desc="Money-back guarantee"
           descLink=""
           backgroundImg={SolarRoof}
-          leftBtnTxt="CUSTOM ORDER"
+          leftBtnTxt="ORDER NOW"
           leftBtnLink=""
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
@@ -87,11 +87,11 @@ function App() {
           desc="Money-back guarantee"
           descLink=""
           backgroundImg={Accessories}
-          leftBtnTxt="CUSTOM ORDER"
+          leftBtnTxt="SHOP NOW"
           leftBtnLink=""
-          rightBtnTxt="LEARN MORE"
+          rightBtnTxt="SHOP NOW"
           rightBtnLink=""
-          twoButtons="true"
+          twoButtons=""
         />
       </div>
     </div>

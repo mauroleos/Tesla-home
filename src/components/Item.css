@@ -7,6 +7,7 @@
   background-size: cover;
   display: flex;
   justify-content: center;
+  scroll-snap-align: start;
 }
 
 .item__container {
@@ -37,7 +38,7 @@
   flex-direction: column;
 }
 
-.item__button {
+.item__buttons {
   display: flex;
 }
 
@@ -46,4 +47,5 @@
   width: 100%;
   margin-top: 3%;
   justify-content: center;
+  display: flex;
 }
