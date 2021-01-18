@@ -16,7 +16,7 @@ function App() {
       <Header />
       <div className="app__itemsContainer">
         <Item 
-          title="MAURO LOVES TESLA"
+          title="Lowest Cost Solar Panels in America"
           desc="Money-back guarantee"
           descLink=""
           backgroundImg={SolarPanels}
@@ -91,7 +91,7 @@ function App() {
           leftBtnLink=""
           rightBtnTxt="SHOP NOW"
           rightBtnLink=""
-          twoButtons=""
+          twoButtons="false"
         />
       </div>
     </div>
