@@ -4,7 +4,7 @@ This is a copy of the TESLA homepage written with REACT/Node.js, CSS, and deploy
 
 <strong>View application on <a href="https://tesla-home.herokuapp.com/"><b>Heroku</b></a>.</strong>
 
-<img src="image/expense-tracker.png" alt="image">
+<img src="image/tesla-home.png" alt="image">
 
 # Summary
   
