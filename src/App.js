@@ -16,7 +16,7 @@ function App() {
       <Header />
       <div className="app__itemsContainer">
         <Item 
-          title="Lowest Cost Solar Panels in America"
+          title="MAURO LOVES TESLA"
           desc="Money-back guarantee"
           descLink=""
           backgroundImg={SolarPanels}
